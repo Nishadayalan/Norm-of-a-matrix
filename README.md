@@ -66,8 +66,8 @@ print(Norm_of_matrix)
 
 
 ### 2-Norm of a Matrix
-![Alt text](<Screenshot 2023-12-29 214440.png>)
 
+![Alt text](<Screenshot 2023-12-30 180125.png>)
 
 
 ### Infinity Norm of a Matrix
