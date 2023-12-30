@@ -28,8 +28,8 @@ print(Norm_of_matrix)
 # 2-Norm of a Matrix
 '''
 Program to find 2-norm of a matrix.
-Developed by: yourname
-RegisterNumber: 
+Developed by: NISHA.D
+RegisterNumber: 212223230143
 '''
 import numpy as np
 
@@ -71,8 +71,8 @@ print(Norm_of_matrix)
 
 
 ### Infinity Norm of a Matrix
-
 ![Alt text](<Screenshot 2023-12-29 214503.png>)
+
 
 
 ## Result
